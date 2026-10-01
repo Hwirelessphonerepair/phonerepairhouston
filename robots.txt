@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwireless-phone-repair-houston.vercel.app/sitemap.xml
